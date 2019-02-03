@@ -1,0 +1,167 @@
+[
+  {
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "summary": {
+        "question": "How many women attended AE for leg injuries on a weekend in June",
+        "row_count": 4,
+        "col_count": 1
+      },
+      "fields": [
+        {
+          "name": "No. of records",
+          "datatype": "integer",
+          "measuretype": "continuous",
+          "measuresubtype": "ratio"
+        }
+      ],
+      "body": [
+        [
+          "70"
+        ],
+        [
+          "50"
+        ],
+        [
+          "45"
+        ],
+        [
+          "43"
+        ]
+      ]
+    }
+  },
+  {
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "summary": {
+        "question": "How many women attended AE for leg injuries on a weekend in June",
+        "row_count": 4,
+        "col_count": 1
+      },
+      "fields": [
+        {
+          "name": "No. of records",
+          "datatype": "integer",
+          "measuretype": "continuous",
+          "measuresubtype": "ratio"
+        }
+      ],
+      "body": [
+        [
+          "150"
+        ],
+        [
+          "100"
+        ],
+        [
+          "225"
+        ],
+        [
+          "153"
+        ]
+      ]
+    }
+  },
+  {
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "summary": {
+        "question": "How many women attended AE for leg injuries on a weekend in June",
+        "row_count": 4,
+        "col_count": 1
+      },
+      "fields": [
+        {
+          "name": "No. of records",
+          "datatype": "integer",
+          "measuretype": "continuous",
+          "measuresubtype": "ratio"
+        }
+      ],
+      "body": [
+        [
+          "20"
+        ],
+        [
+          "40"
+        ],
+        [
+          "65"
+        ],
+        [
+          "83"
+        ]
+      ]
+    }
+  },
+  {
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "summary": {
+        "question": "How many women attended AE for leg injuries on a weekend in June",
+        "row_count": 4,
+        "col_count": 1
+      },
+      "fields": [
+        {
+          "name": "No. of records",
+          "datatype": "integer",
+          "measuretype": "continuous",
+          "measuresubtype": "ratio"
+        }
+      ],
+      "body": [
+        [
+          "80"
+        ],
+        [
+          "30"
+        ],
+        [
+          "65"
+        ],
+        [
+          "13"
+        ]
+      ]
+    }
+  },
+  {
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "summary": {
+        "question": "How many women attended AE for leg injuries on a weekend in June",
+        "row_count": 4,
+        "col_count": 1
+      },
+      "fields": [
+        {
+          "name": "No. of records",
+          "datatype": "integer",
+          "measuretype": "continuous",
+          "measuresubtype": "ratio"
+        }
+      ],
+      "body": [
+        [
+          "10"
+        ],
+        [
+          "90"
+        ],
+        [
+          "25"
+        ],
+        [
+          "53"
+        ]
+      ]
+    }
+  }
+]

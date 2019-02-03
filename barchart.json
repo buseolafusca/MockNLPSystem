@@ -1,0 +1,221 @@
+[
+  {
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "summary": {
+        "question": "How many women attended AE for leg injuries on a weekend in June",
+        "row_count": 4,
+        "col_count": 5
+      },
+      "fields": [
+        {
+          "name": "No. of records",
+          "datatype": "integer",
+          "measuretype": "continuous",
+          "measuresubtype": "ratio"
+        },
+        {
+          "name": "Sex of patients",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Arrival day",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "A&E Diagnosis",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Arrival month",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        }
+      ],
+      "body": [
+        [
+          "70",
+          "Female",
+          "Monday",
+          "Nerve injury",
+          "June"
+        ],
+        [
+          "50",
+          "Female",
+          "Tuesday",
+          "Nerve injury",
+          "June"
+        ],
+        [
+          "45",
+          "Female",
+          "Wednesday",
+          "Nerve injury",
+          "June"
+        ],
+        [
+          "43",
+          "Female",
+          "Thursday",
+          "Nerve injury",
+          "June"
+        ]
+      ]
+    }
+  },
+  {
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "summary": {
+        "question": "How many women attended AE for leg injuries on a weekend in June",
+        "row_count": 4,
+        "col_count": 5
+      },
+      "fields": [
+        {
+          "name": "No. of records",
+          "datatype": "integer",
+          "measuretype": "continuous",
+          "measuresubtype": "ratio"
+        },
+        {
+          "name": "Sex of patients",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Arrival day",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "A&E Diagnosis",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Arrival month",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        }
+      ],
+      "body": [
+        [
+          "50",
+          "Female",
+          "Monday",
+          "Nerve injury",
+          "June"
+        ],
+        [
+          "10",
+          "Female",
+          "Monday",
+          "Viscera injury",
+          "June"
+        ],
+        [
+          "25",
+          "Female",
+          "Monday",
+          "Brain injury",
+          "June"
+        ],
+        [
+          "67",
+          "Female",
+          "Monday",
+          "Headache",
+          "June"
+        ]
+      ]
+    }
+  },
+  {
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "summary": {
+        "question": "How many women attended AE for leg injuries on a weekend in June",
+        "row_count": 4,
+        "col_count": 5
+      },
+      "fields": [
+        {
+          "name": "No. of records",
+          "datatype": "integer",
+          "measuretype": "continuous",
+          "measuresubtype": "ratio"
+        },
+        {
+          "name": "Sex of patients",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Arrival day",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "A&E Diagnosis",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Arrival month",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        }
+      ],
+      "body": [
+        [
+          "100",
+          "Female",
+          "Monday",
+          "Nerve injury",
+          "May"
+        ],
+        [
+          "20",
+          "Female",
+          "Monday",
+          "Nerve injury",
+          "June"
+        ],
+        [
+          "50",
+          "Female",
+          "Monday",
+          "Nerve injury",
+          "July"
+        ],
+        [
+          "30",
+          "Female",
+          "Monday",
+          "Nerve injury",
+          "August"
+        ]
+      ]
+    }
+  }
+]
