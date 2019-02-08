@@ -34,10 +34,10 @@
           "measuresubtype": "nominal"
         },
         {
-          "name": "Arrival month",
+          "name": "Arrival week",
           "datatype": "string",
-          "measuretype": "categorical",
-          "measuresubtype": "nominal"
+          "measuretype": "timeseries",
+          "measuresubtype": "time"
         }
       ],
       "body": [
@@ -46,28 +46,28 @@
           "Female",
           "Monday",
           "Nerve injury",
-          "June"
+          "Monday"
         ],
         [
           "50",
           "Female",
           "Tuesday",
           "Nerve injury",
-          "June"
+          "Tuesday"
         ],
         [
           "45",
           "Female",
           "Wednesday",
           "Nerve injury",
-          "June"
+          "Wednesday"
         ],
         [
           "43",
           "Female",
           "Thursday",
           "Nerve injury",
-          "June"
+          "Thursday"
         ]
       ]
     }
@@ -78,7 +78,7 @@
     "responseData": {
       "summary": {
         "question": "How many women attended AE for leg injuries on a weekend in June",
-        "row_count": 4,
+        "row_count": 7,
         "col_count": 5
       },
       "fields": [
@@ -107,10 +107,10 @@
           "measuresubtype": "nominal"
         },
         {
-          "name": "Arrival month",
+          "name": "Arrival week",
           "datatype": "string",
-          "measuretype": "categorical",
-          "measuresubtype": "nominal"
+          "measuretype": "timeseries",
+          "measuresubtype": "time"
         }
       ],
       "body": [
@@ -119,28 +119,49 @@
           "Female",
           "Monday",
           "Nerve injury",
-          "June"
+          "Monday"
         ],
         [
           "10",
           "Female",
           "Monday",
           "Viscera injury",
-          "June"
+          "Tuesday"
+        ],
+        [
+          "10",
+          "Female",
+          "Monday",
+          "Viscera injury",
+          "Wednesday"
+        ],
+        [
+          "10",
+          "Female",
+          "Monday",
+          "Viscera injury",
+          "Thursday"
+        ],
+        [
+          "10",
+          "Female",
+          "Monday",
+          "Viscera injury",
+          "Friday"
         ],
         [
           "25",
           "Female",
           "Monday",
           "Brain injury",
-          "June"
+          "Saturday"
         ],
         [
           "67",
           "Female",
           "Monday",
           "Headache",
-          "June"
+          "Sunday"
         ]
       ]
     }
@@ -151,7 +172,7 @@
     "responseData": {
       "summary": {
         "question": "How many women attended AE for leg injuries on a weekend in June",
-        "row_count": 4,
+        "row_count": 5,
         "col_count": 5
       },
       "fields": [
@@ -180,10 +201,10 @@
           "measuresubtype": "nominal"
         },
         {
-          "name": "Arrival month",
+          "name": "Arrival week",
           "datatype": "string",
-          "measuretype": "categorical",
-          "measuresubtype": "nominal"
+          "measuretype": "timeseries",
+          "measuresubtype": "time"
         }
       ],
       "body": [
@@ -192,28 +213,35 @@
           "Female",
           "Monday",
           "Nerve injury",
-          "May"
+          "Tuesday"
         ],
         [
           "20",
           "Female",
           "Monday",
           "Nerve injury",
-          "June"
+          "Wednesday"
+        ],
+        [
+          "20",
+          "Female",
+          "Monday",
+          "Nerve injury",
+          "Thursday"
         ],
         [
           "50",
           "Female",
           "Monday",
           "Nerve injury",
-          "July"
+          "Friday"
         ],
         [
           "30",
           "Female",
           "Monday",
           "Nerve injury",
-          "August"
+          "Saturday"
         ]
       ]
     }
