@@ -17,6 +17,8 @@ def accept_question():
         data_path = os.path.join(folder, 'barchart.json')
     elif file_index == 0:
         data_path = os.path.join(folder, 'piechart.json')
+    elif file_index == 2:
+        data_path = os.path.join(folder, 'linechart.json')
 
     with open(data_path) as file:
         suggested_charts = json.loads(file.read())
