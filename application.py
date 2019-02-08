@@ -11,7 +11,7 @@ application = app = Flask(__name__)
 def accept_question():
 
     data_path = ""
-    file_index = random.randint(0, 1)
+    file_index = random.randint(0, 2)
     folder = os.path.dirname(os.path.abspath(__file__))
     if file_index == 1:
         data_path = os.path.join(folder, 'barchart.json')
