@@ -22,12 +22,6 @@
           "measuresubtype": "nominal"
         },
         {
-          "name": "Arrival day",
-          "datatype": "string",
-          "measuretype": "categorical",
-          "measuresubtype": "nominal"
-        },
-        {
           "name": "A&E Diagnosis",
           "datatype": "string",
           "measuretype": "categorical",
@@ -44,28 +38,24 @@
         [
           "70",
           "Female",
-          "Monday",
           "Nerve injury",
           "Monday"
         ],
         [
           "50",
           "Female",
-          "Tuesday",
           "Nerve injury",
           "Tuesday"
         ],
         [
           "45",
           "Female",
-          "Wednesday",
           "Nerve injury",
           "Wednesday"
         ],
         [
           "43",
           "Female",
-          "Thursday",
           "Nerve injury",
           "Thursday"
         ]
@@ -95,12 +85,6 @@
           "measuresubtype": "nominal"
         },
         {
-          "name": "Arrival day",
-          "datatype": "string",
-          "measuretype": "categorical",
-          "measuresubtype": "nominal"
-        },
-        {
           "name": "A&E Diagnosis",
           "datatype": "string",
           "measuretype": "categorical",
@@ -117,49 +101,42 @@
         [
           "50",
           "Female",
-          "Monday",
           "Nerve injury",
           "Monday"
         ],
         [
           "10",
           "Female",
-          "Monday",
           "Viscera injury",
           "Tuesday"
         ],
         [
           "10",
           "Female",
-          "Monday",
           "Viscera injury",
           "Wednesday"
         ],
         [
           "10",
           "Female",
-          "Monday",
           "Viscera injury",
           "Thursday"
         ],
         [
           "10",
           "Female",
-          "Monday",
           "Viscera injury",
           "Friday"
         ],
         [
           "25",
           "Female",
-          "Monday",
           "Brain injury",
           "Saturday"
         ],
         [
           "67",
           "Female",
-          "Monday",
           "Headache",
           "Sunday"
         ]
@@ -189,12 +166,6 @@
           "measuresubtype": "nominal"
         },
         {
-          "name": "Arrival day",
-          "datatype": "string",
-          "measuretype": "categorical",
-          "measuresubtype": "nominal"
-        },
-        {
           "name": "A&E Diagnosis",
           "datatype": "string",
           "measuretype": "categorical",
@@ -211,35 +182,30 @@
         [
           "100",
           "Female",
-          "Monday",
           "Nerve injury",
           "Tuesday"
         ],
         [
           "20",
           "Female",
-          "Monday",
           "Nerve injury",
           "Wednesday"
         ],
         [
           "20",
           "Female",
-          "Monday",
           "Nerve injury",
           "Thursday"
         ],
         [
           "50",
           "Female",
-          "Monday",
           "Nerve injury",
           "Friday"
         ],
         [
           "30",
           "Female",
-          "Monday",
           "Nerve injury",
           "Saturday"
         ]
