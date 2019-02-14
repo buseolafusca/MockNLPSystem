@@ -1,0 +1,215 @@
+[
+  {
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "summary": {
+        "question": "How many women attended AE for leg injuries on a weekend in June",
+        "row_count": 4,
+        "col_count": 4
+      },
+      "fields": [
+        {
+          "name": "No. of records",
+          "datatype": "integer",
+          "measuretype": "continuous",
+          "measuresubtype": "ratio"
+        },
+        {
+          "name": "Sex of patients",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "A&E Diagnosis",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Arrival week",
+          "datatype": "string",
+          "measuretype": "timeseries",
+          "measuresubtype": "time"
+        }
+      ],
+      "body": [
+        [
+          "70",
+          "Female",
+          "Nerve injury",
+          "Monday"
+        ],
+        [
+          "50",
+          "Female",
+          "Nerve injury",
+          "Tuesday"
+        ],
+        [
+          "45",
+          "Female",
+          "Nerve injury",
+          "Wednesday"
+        ],
+        [
+          "43",
+          "Female",
+          "Nerve injury",
+          "Thursday"
+        ]
+      ]
+    }
+  },
+  {
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "summary": {
+        "question": "How many women attended AE for leg injuries on a weekend in June",
+        "row_count": 7,
+        "col_count": 4
+      },
+      "fields": [
+        {
+          "name": "No. of records",
+          "datatype": "integer",
+          "measuretype": "continuous",
+          "measuresubtype": "ratio"
+        },
+        {
+          "name": "Sex of patients",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "A&E Diagnosis",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Arrival week",
+          "datatype": "string",
+          "measuretype": "timeseries",
+          "measuresubtype": "time"
+        }
+      ],
+      "body": [
+        [
+          "50",
+          "Female",
+          "Nerve injury",
+          "Monday"
+        ],
+        [
+          "10",
+          "Female",
+          "Viscera injury",
+          "Tuesday"
+        ],
+        [
+          "10",
+          "Female",
+          "Viscera injury",
+          "Wednesday"
+        ],
+        [
+          "10",
+          "Female",
+          "Viscera injury",
+          "Thursday"
+        ],
+        [
+          "10",
+          "Female",
+          "Viscera injury",
+          "Friday"
+        ],
+        [
+          "25",
+          "Female",
+          "Brain injury",
+          "Saturday"
+        ],
+        [
+          "67",
+          "Female",
+          "Headache",
+          "Sunday"
+        ]
+      ]
+    }
+  },
+  {
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "summary": {
+        "question": "How many women attended AE for leg injuries on a weekend in June",
+        "row_count": 5,
+        "col_count": 4
+      },
+      "fields": [
+        {
+          "name": "No. of records",
+          "datatype": "integer",
+          "measuretype": "continuous",
+          "measuresubtype": "ratio"
+        },
+        {
+          "name": "Sex of patients",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "A&E Diagnosis",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Arrival week",
+          "datatype": "string",
+          "measuretype": "timeseries",
+          "measuresubtype": "time"
+        }
+      ],
+      "body": [
+        [
+          "100",
+          "Female",
+          "Nerve injury",
+          "Tuesday"
+        ],
+        [
+          "20",
+          "Female",
+          "Nerve injury",
+          "Wednesday"
+        ],
+        [
+          "20",
+          "Female",
+          "Nerve injury",
+          "Thursday"
+        ],
+        [
+          "50",
+          "Female",
+          "Nerve injury",
+          "Friday"
+        ],
+        [
+          "30",
+          "Female",
+          "Nerve injury",
+          "Saturday"
+        ]
+      ]
+    }
+  }
+]
