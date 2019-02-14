@@ -1,0 +1,75 @@
+[
+  {
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "summary": {
+        "question": "How many women attended AE for leg injuries on a weekend in June",
+        "row_count": 4,
+        "col_count": 5
+      },
+      "fields": [
+        {
+          "name": "No. of records",
+          "datatype": "integer",
+          "measuretype": "continuous",
+          "measuresubtype": "ratio"
+        },
+        {
+          "name": "Sex of patients",
+          "datatype": "string",
+          "measuretype": "continuous",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Arrival day",
+          "datatype": "string",
+          "measuretype": "continuous",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "A&E Diagnosis",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Arrival month",
+          "datatype": "string",
+          "measuretype": "continuous",
+          "measuresubtype": "nominal"
+        }
+      ],
+      "body": [
+        [
+          70,
+          50,
+          10,
+          "Nerve injury",
+          20
+        ],
+        [
+          50,
+          10,
+          20,
+          "Nerve injury",
+          30
+        ],
+        [
+          20,
+          10,
+          20,
+          "Nerve injury",
+          5
+        ],
+        [
+          10,
+          10,
+          60,
+          "Nerve injury",
+          1
+        ]
+      ]
+    }
+  }
+]

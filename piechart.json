@@ -163,5 +163,68 @@
         ]
       ]
     }
+  },
+  {
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "summary": {
+        "question": "How many women attended AE for leg injuries on a weekend in June",
+        "row_count": 4,
+        "col_count": 5
+      },
+      "fields": [
+        {
+          "name": "Sex of patients",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Arrival day",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "A&E Diagnosis",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Arrival month",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        }
+      ],
+      "body": [
+        [
+          "Female",
+          "Monday",
+          "Nerve injury",
+          "May"
+        ],
+        [
+          "Female",
+          "Monday",
+          "Nerve injury",
+          "June"
+        ],
+        [
+          "Female",
+          "Monday",
+          "Nerve injury",
+          "July"
+        ],
+        [
+          "Female",
+          "Monday",
+          "Nerve injury",
+          "August"
+        ]
+      ]
+    }
   }
 ]
