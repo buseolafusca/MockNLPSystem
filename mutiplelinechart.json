@@ -5,7 +5,7 @@
     "responseData": {
       "summary": {
         "question": "How many women attended AE for leg injuries on a weekend in June",
-        "row_count": 4,
+        "row_count": 8,
         "col_count": 4
       },
       "fields": [
@@ -58,6 +58,30 @@
           "Female",
           "Nerve injury",
           "Thursday"
+        ],
+        [
+          30,
+          "Male",
+          "Nerve injury",
+          "Monday"
+        ],
+        [
+          90,
+          "Male",
+          "Nerve injury",
+          "Tuesday"
+        ],
+        [
+          55,
+          "Male",
+          "Nerve injury",
+          "Wednesday"
+        ],
+        [
+          63,
+          "Male",
+          "Nerve injury",
+          "Thursday"
         ]
       ]
     }
@@ -68,7 +92,7 @@
     "responseData": {
       "summary": {
         "question": "How many women attended AE for leg injuries on a weekend in June",
-        "row_count": 7,
+        "row_count": 14,
         "col_count": 4
       },
       "fields": [
@@ -101,7 +125,7 @@
         [
           50,
           "Female",
-          "Nerve injury",
+          "Viscera injury",
           "Monday"
         ],
         [
@@ -131,13 +155,55 @@
         [
           25,
           "Female",
-          "Brain injury",
+          "Viscera injury",
           "Saturday"
         ],
         [
           67,
           "Female",
-          "Headache",
+          "Viscera injury",
+          "Sunday"
+        ],
+        [
+          70,
+          "Female",
+          "Brain injury",
+          "Monday"
+        ],
+        [
+          18,
+          "Female",
+          "Brain injury",
+          "Tuesday"
+        ],
+        [
+          10,
+          "Female",
+          "Brain injury",
+          "Wednesday"
+        ],
+        [
+          76,
+          "Female",
+          "Brain injury",
+          "Thursday"
+        ],
+        [
+          44,
+          "Female",
+          "Brain injury",
+          "Friday"
+        ],
+        [
+          54,
+          "Female",
+          "Brain injury",
+          "Saturday"
+        ],
+        [
+          57,
+          "Female",
+          "Brain injury",
           "Sunday"
         ]
       ]
@@ -149,7 +215,7 @@
     "responseData": {
       "summary": {
         "question": "How many women attended AE for leg injuries on a weekend in June",
-        "row_count": 5,
+        "row_count": 10,
         "col_count": 4
       },
       "fields": [
@@ -204,8 +270,38 @@
           "Friday"
         ],
         [
-          30,
+          20,
           "Female",
+          "Nerve injury",
+          "Saturday"
+        ],
+                [
+          70,
+          "Male",
+          "Nerve injury",
+          "Tuesday"
+        ],
+        [
+          80,
+          "Male",
+          "Nerve injury",
+          "Wednesday"
+        ],
+        [
+          10,
+          "Male",
+          "Nerve injury",
+          "Thursday"
+        ],
+        [
+          70,
+          "Male",
+          "Nerve injury",
+          "Friday"
+        ],
+        [
+          40,
+          "Male",
           "Nerve injury",
           "Saturday"
         ]
