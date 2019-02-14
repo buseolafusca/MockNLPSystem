@@ -12,7 +12,7 @@ def accept_question():
 
     data_path = ""
 #     file_index = random.randint(0, 3)
-#     folder = os.path.dirname(os.path.abspath(__file__))
+    folder = os.path.dirname(os.path.abspath(__file__))
 #     if file_index == 0:
 #         data_path = os.path.join(folder, 'barchart.json')
 #     elif file_index == 1:
