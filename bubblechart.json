@@ -17,7 +17,7 @@
         },
         {
           "name": "Sex of patients",
-          "datatype": "string",
+          "datatype": "integer",
           "measuretype": "continuous",
           "measuresubtype": "nominal"
         },
@@ -35,7 +35,7 @@
         },
         {
           "name": "Arrival month",
-          "datatype": "string",
+          "datatype": "integer",
           "measuretype": "continuous",
           "measuresubtype": "nominal"
         }
