@@ -7,6 +7,16 @@ from flask import Flask, Response
 application = app = Flask(__name__)
 
 
+@app.route('/faq')
+def get_faq():
+    folder = os.path.dirname(os.path.abspath(__file__))
+    data_path = os.path.join(folder, 'faq.json')
+
+    with open(data_path) as file:
+        response_data = json.loads(file.read())
+
+    return Response(response=json.dumps(response_data), content_type='application/json')
+
 @app.route('/')
 def accept_question():
 

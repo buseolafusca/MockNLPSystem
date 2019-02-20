@@ -1,0 +1,15 @@
+{
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "questions": [
+        "How many men by ethnicity and sexual orientation and gender?",
+        "How many people in health by sex and age?",
+        "How many men in mental health?",
+        "How many men on long term sick by ethnicity and gender?",
+        "How many Muslim females on long term sick felt their mental health therapist rarely listens to them?",
+        "Number of women who are Jewish?",
+        "How many people on long term sick by ethnicity and gender?"
+        ]
+    }
+  }
