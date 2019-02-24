@@ -21,7 +21,7 @@ def get_faq():
 def accept_question():
 
     data_path = ""
-    file_index = random.randint(0, 4)
+    file_index = random.randint(0, 5)
     folder = os.path.dirname(os.path.abspath(__file__))
     if file_index == 0:
         data_path = os.path.join(folder, 'mock_response.json')
@@ -33,6 +33,8 @@ def accept_question():
         data_path = os.path.join(folder, 'bubblechart.json')
     elif file_index == 4:
         data_path = os.path.join(folder, 'mutiplelinechart.json')
+    elif file_index == 5:
+        data_path = os.path.join(folder, 'scatterchart.json')
 
 
     with open(data_path) as file:
