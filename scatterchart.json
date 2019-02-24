@@ -1,0 +1,75 @@
+[
+  {
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "summary": {
+        "question": "Physical condition of all patients in the hospital",
+        "row_count": 8,
+        "col_count": 3
+      },
+      "fields": [
+        {
+          "name": "Sex of patients",
+          "datatype": "integer",
+          "measuretype": "continuous",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Weight",
+          "datatype": "string",
+          "measuretype": "continuous",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Height",
+          "datatype": "integer",
+          "measuretype": "continuous",
+          "measuresubtype": "nominal"
+        }
+      ],
+      "body": [
+        [
+          Men,
+          50,
+          10
+        ],
+        [
+          Men,
+          10,
+          20
+        ],
+        [
+          Men,
+          10,
+          20
+        ],
+        [
+          Men,
+          10,
+          60
+        ],
+        [
+          Women,
+          50,
+          10
+        ],
+        [
+          Women,
+          10,
+          20
+        ],
+        [
+          Women,
+          10,
+          20
+        ],
+        [
+          Women,
+          10,
+          60
+        ]
+      ]
+    }
+  }
+]
