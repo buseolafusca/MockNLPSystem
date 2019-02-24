@@ -11,8 +11,8 @@
       "fields": [
         {
           "name": "Sex of patients",
-          "datatype": "integer",
-          "measuretype": "continuous",
+          "datatype": "string",
+          "measuretype": "categorical",
           "measuresubtype": "nominal"
         },
         {
