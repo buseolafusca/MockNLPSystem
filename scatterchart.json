@@ -30,42 +30,42 @@
       ],
       "body": [
         [
-          Men,
+          "Men",
           50,
           10
         ],
         [
-          Men,
+          "Men",
           10,
           20
         ],
         [
-          Men,
+          "Men",
           10,
           20
         ],
         [
-          Men,
+          "Men",
           10,
           60
         ],
         [
-          Women,
+          "Women",
           50,
           10
         ],
         [
-          Women,
+          "Women",
           10,
           20
         ],
         [
-          Women,
+          "Women",
           10,
           20
         ],
         [
-          Women,
+          "Women",
           10,
           60
         ]
