@@ -22,7 +22,7 @@ def accept_question():
 
     data_path = ""
     #file_index = random.randint(0, 5)
-    file_index = 2
+    file_index = 4
     folder = os.path.dirname(os.path.abspath(__file__))
     if file_index == 0:
         data_path = os.path.join(folder, 'mock_response.json')
