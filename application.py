@@ -6,6 +6,7 @@ import numpy as np
 
 application = app = flask.Flask(__name__)
 mock_data = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'model_questions.json')
+number_of_faqs = 8
 
 
 def get_n_questions(file_name, n):
@@ -26,7 +27,7 @@ def get_faq():
     with open(data_path) as file:
         response_data = json.loads(file.read())
 
-    questions = get_n_questions(mock_data, 5)
+    questions = get_n_questions(mock_data, number_of_faqs)
     response_data['responseData']['questions'] = questions
     return flask.Response(response=json.dumps(response_data), content_type='application/json')
 
@@ -60,11 +61,15 @@ def random_question():
 
 @app.route('/<question>')
 def accept_question(question):
+    question = question + '?'
 
     with open(mock_data) as file:
         json_data = json.loads(file.read())
 
+    print(question)
+
     questions = [q for q in json_data if q['responseData']['summary']['question'] == question]
+    print(len(questions))
     if not questions:
         return flask.redirect(flask.url_for('random_question'), code=307)
     else:
