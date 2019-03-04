@@ -2,6 +2,7 @@ import json
 import os
 import random
 import flask
+import numpy as np
 
 application = app = flask.Flask(__name__)
 mock_data = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'model_questions.json')
@@ -10,24 +11,24 @@ mock_data = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'model_ques
 def get_n_questions(file_name, n):
     with open(file_name) as file:
         json_data = json.loads(file.read())
-    questions = [q['responseData']['summary']['question'] for q in json_data]
+    questions = np.array([q['responseData']['summary']['question'] for q in json_data])
     if len(questions) < n:
         n = len(questions)
-    n_questions = questions[random.sample(range(0, len(questions)-1), n)]
+    n_questions = list(questions[random.sample(range(0, len(questions)-1), n)])
     return n_questions
 
 
 @app.route('/faq')
 def get_faq():
     folder = os.path.dirname(os.path.abspath(__file__))
-    data_path = os.path.join(folder, 'faq.json')
+    data_path = os.path.join(folder, 'response_template.json')
 
     with open(data_path) as file:
         response_data = json.loads(file.read())
 
+    questions = get_n_questions(mock_data, 5)
+    response_data['responseData']['questions'] = questions
     return flask.Response(response=json.dumps(response_data), content_type='application/json')
-    #questions = get_n_questions(mock_data, 5)
-    #return flask.Response(response=json.dumps(questions), content_type='application/json')
 
 
 @app.route('/')
