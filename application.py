@@ -19,15 +19,21 @@ def get_n_questions(file_name, n):
 
 @app.route('/faq')
 def get_faq():
-    questions = get_n_questions(mock_data, 5)
-    return flask.Response(response=json.dumps(questions), content_type='application/json')
+    folder = os.path.dirname(os.path.abspath(__file__))
+    data_path = os.path.join(folder, 'faq.json')
+
+    with open(data_path) as file:
+        response_data = json.loads(file.read())
+
+    return flask.Response(response=json.dumps(response_data), content_type='application/json')
+    #questions = get_n_questions(mock_data, 5)
+    #return flask.Response(response=json.dumps(questions), content_type='application/json')
 
 
 @app.route('/')
 @app.route('/random_question')
 def random_question():
     data_path = ""
-    print('getting rand')
     file_index = random.randint(0, 5)
     folder = os.path.dirname(os.path.abspath(__file__))
     if file_index == 0:
