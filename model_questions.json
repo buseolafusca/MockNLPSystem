@@ -736,7 +736,7 @@
     "responseCode": "00",
     "responseData": {
       "summary": {
-        "question": "how many gay men on long term sick had mental health by gender and ethnicity",
+        "question": "How many gay men on long term sick had mental health by ethnicity?",
         "row_count": 4,
         "col_count": 3
       },
