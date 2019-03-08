@@ -59,9 +59,9 @@ def random_question():
     return flask.Response(response=json.dumps(suggested_charts[index]), content_type='application/json')
 
 
-@app.route('/<question>')
-def accept_question(question):
-    question = question + '?'
+@app.route('/question', methods=['GET', 'POST'])
+def accept_question():
+    question = flask.request.data
 
     with open(mock_data) as file:
         json_data = json.loads(file.read())
