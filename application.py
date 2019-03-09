@@ -33,7 +33,7 @@ def get_faq():
 
 
 @app.route('/')
-@app.route('/random_question')
+@app.route('/random_question', methods=['GET', 'POST'])
 def random_question():
     data_path = ""
     file_index = random.randint(0, 5)
