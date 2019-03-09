@@ -61,7 +61,7 @@ def random_question():
 
 @app.route('/question', methods=['GET', 'POST'])
 def accept_question():
-    question = flask.request.data
+    question = flask.request.data.decode('utf-8')
 
     with open(mock_data) as file:
         json_data = json.loads(file.read())
