@@ -5,6 +5,7 @@
     "responseData": {
       "summary": {
         "question": "How many jewish women visited A&E?",
+        "interpretation": "",
         "row_count": 1,
         "col_count": 1
       },
@@ -29,6 +30,7 @@
     "responseData": {
       "summary": {
         "question": "How many people visited A&E by gender?",
+        "interpretation": "",
         "row_count": 1,
         "col_count": 1
       },
@@ -68,6 +70,7 @@
     "responseData": {
       "summary": {
         "question": "How many gay people visited A&E by ethnicity and gender?",
+        "interpretation": "",
         "row_count": 15,
         "col_count": 3
       },
@@ -175,134 +178,8 @@
     "responseCode": "00",
     "responseData": {
       "summary": {
-        "question": "How many Muslim females on long term sick felt their mental health therapist rarely listens to them?",
-        "row_count": 1,
-        "col_count": 1
-      },
-      "fields": [
-        {
-          "name": "Count",
-          "datatype": "integer",
-          "measuretype": "continuous",
-          "measuresubtype": "ratio"
-        }
-      ],
-      "body": [
-        [
-          10
-        ]
-      ]
-    }
-  },
-  {
-    "responseMsg": "SUCCESS",
-    "responseCode": "00",
-    "responseData": {
-      "summary": {
-        "question": "How many gay people on long term sick by ethnicity and gender? ",
-        "row_count": 14,
-        "col_count": 3
-      },
-      "fields": [
-        {
-          "name": "Ethinicity",
-          "datatype": "string",
-          "measuretype": "categorical",
-          "measuresubtype": "nominal"
-        },
-        {
-          "name": "Gender",
-          "datatype": "string",
-          "measuretype": "categorical",
-          "measuresubtype": "nominal"
-        },
-        {
-          "name": "Count",
-          "datatype": "integer",
-          "measuretype": "continuous",
-          "measuresubtype": "ratio"
-        }
-      ],
-      "body": [
-        [
-          "Asian or Asian British",
-          "Female",
-          10
-        ],
-        [
-          "Black or Black British",
-          "Female",
-          "5"
-        ],
-        [
-          "Mixed",
-          "Female",
-          "5"
-        ],
-        [
-          "Other Ethnic Groups",
-          "Female",
-          "5"
-        ],
-        [
-          "White",
-          "Female",
-          "5"
-        ],
-        [
-          "Asian or Asian British",
-          "Male",
-          "5"
-        ],
-        [
-          "Black or Black British",
-          "Male",
-          "5"
-        ],
-        [
-          "Mixed",
-          "Male",
-          "5"
-        ],
-        [
-          "Other Ethnic Groups",
-          "Male",
-          10
-        ],
-        [
-          "Asian or Asian British",
-          "Not specified",
-          10
-        ],
-        [
-          "Black or Black British",
-          "Not specified",
-          10
-        ],
-        [
-          "Mixed",
-          "Not specified",
-          10
-        ],
-        [
-          "Other Ethnic Groups",
-          "Not specified",
-          "5"
-        ],
-        [
-          "White",
-          "Not specified",
-          10
-        ]
-      ]
-    }
-  },
-  {
-    "responseMsg": "SUCCESS",
-    "responseCode": "00",
-    "responseData": {
-      "summary": {
         "question": "How many people on long term sick by ethnicity and gender?",
+        "interpretation": "",
         "row_count": 15,
         "col_count": 3
       },
@@ -411,6 +288,7 @@
     "responseData": {
       "summary": {
         "question": "How many people visited A&E by ethnicity and gender?",
+        "interpretation": "",
         "row_count": 15,
         "col_count": 3
       },
@@ -519,6 +397,7 @@
     "responseData": {
       "summary": {
         "question": "How many people visited A&E by ethnicity and sexual orientation?",
+        "interpretation": "",
         "row_count": 30,
         "col_count": 3
       },
@@ -555,7 +434,7 @@
         ],
         [
           "Asian or Asian British",
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           325
         ],
         [
@@ -565,7 +444,7 @@
         ],
         [
           "Mixed",
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           360
         ],
         [
@@ -600,7 +479,7 @@
         ],
         [
           "Other Ethnic Groups",
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           285
         ],
         [
@@ -630,7 +509,7 @@
         ],
         [
           "White",
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           260
         ],
         [
@@ -655,7 +534,7 @@
         ],
         [
           "Black or Black British",
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           250
         ],
         [
@@ -702,6 +581,7 @@
     "responseData": {
       "summary": {
         "question": "How many people used mental health services by gender?",
+        "interpretation": "",
         "row_count": 1,
         "col_count": 1
       },
@@ -737,6 +617,7 @@
     "responseData": {
       "summary": {
         "question": "How many men on long term sick by sexual orientation and race?",
+        "interpretation": "",
         "row_count": 29,
         "col_count": 3
       },
@@ -777,7 +658,7 @@
           15
         ],
         [
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           "Asian or Asian British",
           "5"
         ],
@@ -807,7 +688,7 @@
           10
         ],
         [
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           "Black or Black British",
           "5"
         ],
@@ -837,7 +718,7 @@
           15
         ],
         [
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           "Mixed",
           "5"
         ],
@@ -867,7 +748,7 @@
           10
         ],
         [
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           "Other Ethnic Groups",
           "5"
         ],
@@ -892,7 +773,7 @@
           15
         ],
         [
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           "White",
           "5"
         ],
@@ -915,6 +796,7 @@
     "responseData": {
       "summary": {
         "question": "How many people visited A&E by gender and religion?",
+        "interpretation": "",
         "row_count": 38,
         "col_count": 3
       },
@@ -1137,220 +1019,8 @@
     "responseCode": "00",
     "responseData": {
       "summary": {
-        "question": "How many gay people visited A&E by gender and religion?",
-        "row_count": 36,
-        "col_count": 3
-      },
-      "fields": [
-        {
-          "name": "Gender",
-          "datatype": "string",
-          "measuretype": "categorical",
-          "measuresubtype": "nominal"
-        },
-        {
-          "name": "Religious_Belief",
-          "datatype": "string",
-          "measuretype": "categorical",
-          "measuresubtype": "nominal"
-        },
-        {
-          "name": "Count",
-          "datatype": "integer",
-          "measuretype": "continuous",
-          "measuresubtype": "ratio"
-        }
-      ],
-      "body": [
-        [
-          "Female",
-          "Baha'i",
-          25
-        ],
-        [
-          "Male",
-          "Baha'i",
-          30
-        ],
-        [
-          "Not specified",
-          "Baha'i",
-          65
-        ],
-        [
-          "Female",
-          "Buddhist",
-          35
-        ],
-        [
-          "Male",
-          "Buddhist",
-          35
-        ],
-        [
-          "Not specified",
-          "Buddhist",
-          70
-        ],
-        [
-          "Female",
-          "Christian",
-          30
-        ],
-        [
-          "Male",
-          "Christian",
-          35
-        ],
-        [
-          "Not specified",
-          "Christian",
-          70
-        ],
-        [
-          "Female",
-          "Declines to Disclose",
-          35
-        ],
-        [
-          "Male",
-          "Declines to Disclose",
-          30
-        ],
-        [
-          "Not specified",
-          "Declines to Disclose",
-          75
-        ],
-        [
-          "Female",
-          "Hindu",
-          30
-        ],
-        [
-          "Male",
-          "Hindu",
-          35
-        ],
-        [
-          "Not specified",
-          "Hindu",
-          65
-        ],
-        [
-          "Female",
-          "Jain",
-          35
-        ],
-        [
-          "Male",
-          "Jain",
-          35
-        ],
-        [
-          "Not specified",
-          "Jain",
-          70
-        ],
-        [
-          "Female",
-          "Jewish",
-          30
-        ],
-        [
-          "Male",
-          "Jewish",
-          35
-        ],
-        [
-          "Not specified",
-          "Jewish",
-          75
-        ],
-        [
-          "Female",
-          "Muslim",
-          35
-        ],
-        [
-          "Male",
-          "Muslim",
-          35
-        ],
-        [
-          "Not specified",
-          "Muslim",
-          65
-        ],
-        [
-          "Female",
-          "None",
-          35
-        ],
-        [
-          "Male",
-          "None",
-          40
-        ],
-        [
-          "Not specified",
-          "None",
-          65
-        ],
-        [
-          "Female",
-          "Other",
-          "5"
-        ],
-        [
-          "Not specified",
-          "Other",
-          "5"
-        ],
-        [
-          "Female",
-          "Pagan",
-          20
-        ],
-        [
-          "Male",
-          "Pagan",
-          30
-        ],
-        [
-          "Not specified",
-          "Pagan",
-          65
-        ],
-        [
-          "Not specified",
-          "Patient Religion Unknown",
-          "5"
-        ],
-        [
-          "Female",
-          "Zoroastrian",
-          25
-        ],
-        [
-          "Male",
-          "Zoroastrian",
-          25
-        ],
-        [
-          "Not specified",
-          "Zoroastrian",
-          55
-        ]
-      ]
-    }
-  },
-  {
-    "responseMsg": "SUCCESS",
-    "responseCode": "00",
-    "responseData": {
-      "summary": {
         "question": "How many people visited A&E in June and July by gender and race?",
+        "interpretation": "",
         "row_count": 30,
         "col_count": 4
       },
@@ -1570,6 +1240,7 @@
     "responseData": {
       "summary": {
         "question": "How many women had mental health services by sexual orientation and ethnicity?",
+        "interpretation": "",
         "row_count": 30,
         "col_count": 3
       },
@@ -1600,7 +1271,7 @@
           75
         ],
         [
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           "White",
           70
         ],
@@ -1635,7 +1306,7 @@
           90
         ],
         [
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           "Other Ethnic Groups",
           50
         ],
@@ -1705,7 +1376,7 @@
           75
         ],
         [
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           "Mixed",
           85
         ],
@@ -1715,7 +1386,7 @@
           70
         ],
         [
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           "Black or Black British",
           75
         ],
@@ -1740,7 +1411,7 @@
           50
         ],
         [
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           "Asian or Asian British",
           90
         ]
@@ -1753,6 +1424,7 @@
     "responseData": {
       "summary": {
         "question": "How many people visited A&E and how many were acute or overuse injuries by ethnicity and sexual orientation?",
+        "interpretation": "",
         "row_count": 30,
         "col_count": 4
       },
@@ -2008,6 +1680,7 @@
     "responseData": {
       "summary": {
         "question": "How many men visited A&E by ethnicity and sexual orientation?",
+        "interpretation": "",
         "row_count": 30,
         "col_count": 4
       },
@@ -2227,6 +1900,7 @@
     "responseData": {
       "summary": {
         "question": "How many men visited A&E and how many of them had serious injury by ethnicity?",
+        "interpretation": "",
         "row_count": 5,
         "col_count": 4
       },
