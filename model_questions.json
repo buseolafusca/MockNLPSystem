@@ -69,7 +69,7 @@
     "responseCode": "00",
     "responseData": {
       "summary": {
-        "question": "How many people on long term sick by ethnicity and gender?",
+        "question": "How many people are on long term sick by ethnicity and gender?",
         "interpretation": "",
         "row_count": 15,
         "col_count": 3
@@ -375,7 +375,7 @@
         ],
         [
           "Asian or Asian British",
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           325
         ],
         [
@@ -390,12 +390,12 @@
         ],
         [
           "Mixed",
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           315
         ],
         [
           "White",
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           260
         ],
         [
@@ -430,7 +430,7 @@
         ],
         [
           "Black or Black British",
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           200
         ],
         [
@@ -460,7 +460,7 @@
         ],
         [
           "Other Ethnic Groups",
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           330
         ]
       ]
@@ -507,7 +507,7 @@
     "responseCode": "00",
     "responseData": {
       "summary": {
-        "question": "How many men on long term sick by sexual orientation and race?",
+        "question": "How many men are on long term sick by sexual orientation and race?",
         "interpretation": "",
         "row_count": 29,
         "col_count": 3
@@ -554,7 +554,7 @@
           "5"
         ],
         [
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           "Asian or Asian British",
           15
         ],
@@ -584,7 +584,7 @@
           "5"
         ],
         [
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           "Black or Black British",
           "5"
         ],
@@ -614,7 +614,7 @@
           "5"
         ],
         [
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           "Mixed",
           15
         ],
@@ -644,7 +644,7 @@
           "5"
         ],
         [
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           "Other Ethnic Groups",
           25
         ],
@@ -669,7 +669,7 @@
           "5"
         ],
         [
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           "White",
           10
         ],
@@ -1130,7 +1130,7 @@
     "responseCode": "00",
     "responseData": {
       "summary": {
-        "question": "How many women had mental health services by sexual orientation and ethnicity?",
+        "question": "How many women used mental health services by sexual orientation and ethnicity?",
         "interpretation": "",
         "row_count": 30,
         "col_count": 3
@@ -1202,12 +1202,12 @@
           50
         ],
         [
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           "Black or Black British",
           50
         ],
         [
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           "Mixed",
           55
         ],
@@ -1217,12 +1217,12 @@
           45
         ],
         [
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           "Asian or Asian British",
           70
         ],
         [
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           "White",
           65
         ],
@@ -1272,7 +1272,7 @@
           85
         ],
         [
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           "Other Ethnic Groups",
           70
         ],
@@ -1616,7 +1616,7 @@
         ],
         [
           "Asian or Asian British",
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           "Male",
           85
         ],
@@ -1628,7 +1628,7 @@
         ],
         [
           "Mixed",
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           "Male",
           85
         ],
@@ -1670,13 +1670,13 @@
         ],
         [
           "Other Ethnic Groups",
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           "Male",
           80
         ],
         [
           "Asian or Asian British",
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           "Male",
           80
         ],
@@ -1694,19 +1694,19 @@
         ],
         [
           "Mixed",
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           "Male",
           85
         ],
         [
           "White",
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           "Male",
           55
         ],
         [
           "White",
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           "Male",
           65
         ],
@@ -1736,13 +1736,13 @@
         ],
         [
           "Black or Black British",
-          "Not stated (Person asked but declined to provide a response)",
+          "Not stated",
           "Male",
           50
         ],
         [
           "Black or Black British",
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           "Male",
           50
         ],
@@ -1778,7 +1778,7 @@
         ],
         [
           "Other Ethnic Groups",
-          "Person asked and does not know or is not sure",
+          "Does not know or is not sure",
           "Male",
           85
         ]
@@ -1837,7 +1837,7 @@
         [
           "Mixed",
           "Male",
-          50,
+          30,
           18
         ],
         [
