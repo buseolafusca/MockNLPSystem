@@ -7,6 +7,7 @@ import numpy as np
 application = app = flask.Flask(__name__)
 mock_data = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'model_questions.json')
 number_of_faqs = 8
+always_question = "How many people visited A&E in June and July by gender and race?"
 
 
 def get_n_questions(file_name, n):
@@ -16,6 +17,9 @@ def get_n_questions(file_name, n):
     if len(questions) < n:
         n = len(questions)
     n_questions = list(questions[random.sample(range(0, len(questions)-1), n)])
+    if always_question not in n_questions:
+        n_questions[0] = always_question
+        print('Not in FAQ')
     return n_questions
 
 
