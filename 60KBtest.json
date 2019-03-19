@@ -1,0 +1,8703 @@
+
+  {
+    "responseMsg": "SUCCESS",
+    "responseCode": "00",
+    "responseData": {
+      "summary": {
+        "question": "60KB data",
+        "interpretation": "",
+        "row_count": 960,
+        "col_count": 7
+      },
+      "fields": [
+        {
+          "name": "Gender",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Ethinicity",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Month",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Profession",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Work experience (years)",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Has a pet",
+          "datatype": "string",
+          "measuretype": "categorical",
+          "measuresubtype": "nominal"
+        },
+        {
+          "name": "Count",
+          "datatype": "integer",
+          "measuretype": "continuous",
+          "measuresubtype": "ratio"
+        }
+      ],
+      "body": [
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          400
+
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Astronaut",
+          "0-1",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Astronaut",
+          "1-5",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          400
+
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Astronaut",
+          "6-10",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          400
+
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Astronaut",
+          "11-20",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "0-1",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "0-1",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Doctor",
+          "0-1",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Doctor",
+          "0-1",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "0-1",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "0-1",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "0-1",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "0-1",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "0-1",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "0-1",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Doctor",
+          "0-1",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Doctor",
+          "0-1",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Doctor",
+          "0-1",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Doctor",
+          "0-1",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "0-1",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "0-1",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "0-1",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "0-1",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Doctor",
+          "0-1",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Doctor",
+          "0-1",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "0-1",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "0-1",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "0-1",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "0-1",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "0-1",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "0-1",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Doctor",
+          "0-1",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Doctor",
+          "0-1",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Doctor",
+          "0-1",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Doctor",
+          "0-1",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "1-5",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "1-5",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Doctor",
+          "1-5",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Doctor",
+          "1-5",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "1-5",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "1-5",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "1-5",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "1-5",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "1-5",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "1-5",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Doctor",
+          "1-5",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Doctor",
+          "1-5",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Doctor",
+          "1-5",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Doctor",
+          "1-5",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "1-5",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "1-5",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "1-5",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "1-5",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Doctor",
+          "1-5",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Doctor",
+          "1-5",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "1-5",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "1-5",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "1-5",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "1-5",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "1-5",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "1-5",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Doctor",
+          "1-5",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Doctor",
+          "1-5",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Doctor",
+          "1-5",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Doctor",
+          "1-5",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "6-10",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "6-10",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Doctor",
+          "6-10",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Doctor",
+          "6-10",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "6-10",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "6-10",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "6-10",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "6-10",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "6-10",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "6-10",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Doctor",
+          "6-10",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Doctor",
+          "6-10",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Doctor",
+          "6-10",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Doctor",
+          "6-10",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "6-10",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "6-10",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "6-10",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "6-10",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Doctor",
+          "6-10",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Doctor",
+          "6-10",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "6-10",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "6-10",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "6-10",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "6-10",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "6-10",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "6-10",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Doctor",
+          "6-10",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Doctor",
+          "6-10",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Doctor",
+          "6-10",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Doctor",
+          "6-10",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "11-20",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "11-20",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Doctor",
+          "11-20",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Doctor",
+          "11-20",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "11-20",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "11-20",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "11-20",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "11-20",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "11-20",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "11-20",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Doctor",
+          "11-20",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Doctor",
+          "11-20",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Doctor",
+          "11-20",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Doctor",
+          "11-20",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "11-20",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "11-20",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "11-20",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "11-20",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Doctor",
+          "11-20",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Doctor",
+          "11-20",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "11-20",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "11-20",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "11-20",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "11-20",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "11-20",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "11-20",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Doctor",
+          "11-20",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Doctor",
+          "11-20",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Doctor",
+          "11-20",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Doctor",
+          "11-20",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "0-1",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Project Manager",
+          "0-1",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Project Manager",
+          "1-5",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Project Manager",
+          "6-10",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Project Manager",
+          "11-20",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "Yes",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "0-1",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "0-1",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "0-1",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "0-1",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "0-1",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "0-1",
+          "No",
+          400
+
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "0-1",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "0-1",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "0-1",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "0-1",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "0-1",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "0-1",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "0-1",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "0-1",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "0-1",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "0-1",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "0-1",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "0-1",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Astronaut",
+          "0-1",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Astronaut",
+          "0-1",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "0-1",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "0-1",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "0-1",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "0-1",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "0-1",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "0-1",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Astronaut",
+          "0-1",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Astronaut",
+          "0-1",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Astronaut",
+          "0-1",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Astronaut",
+          "0-1",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "1-5",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "1-5",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "1-5",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "1-5",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "1-5",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "1-5",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "1-5",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "1-5",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "1-5",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "1-5",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "1-5",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "1-5",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "1-5",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "1-5",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "1-5",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "1-5",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "1-5",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "1-5",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Astronaut",
+          "1-5",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Astronaut",
+          "1-5",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "1-5",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "1-5",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "1-5",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "1-5",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "1-5",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "1-5",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Astronaut",
+          "1-5",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Astronaut",
+          "1-5",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Astronaut",
+          "1-5",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Astronaut",
+          "1-5",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "6-10",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "6-10",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "6-10",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "6-10",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "6-10",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "6-10",
+          "No",
+          400
+
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "6-10",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "6-10",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "6-10",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "6-10",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "6-10",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "6-10",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "6-10",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "6-10",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "6-10",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "6-10",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "6-10",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "6-10",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Astronaut",
+          "6-10",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Astronaut",
+          "6-10",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "6-10",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "6-10",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "6-10",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "6-10",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "6-10",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "6-10",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Astronaut",
+          "6-10",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Astronaut",
+          "6-10",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Astronaut",
+          "6-10",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Astronaut",
+          "6-10",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "11-20",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "11-20",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "11-20",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "11-20",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "11-20",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "11-20",
+          "No",
+          400
+
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "11-20",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "11-20",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "11-20",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "11-20",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "11-20",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "11-20",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Astronaut",
+          "11-20",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Astronaut",
+          "11-20",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "11-20",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "11-20",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Astronaut",
+          "11-20",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Astronaut",
+          "11-20",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Astronaut",
+          "11-20",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Astronaut",
+          "11-20",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "11-20",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "11-20",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Astronaut",
+          "11-20",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Astronaut",
+          "11-20",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Astronaut",
+          "11-20",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Astronaut",
+          "11-20",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Astronaut",
+          "11-20",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Astronaut",
+          "11-20",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Astronaut",
+          "11-20",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Astronaut",
+          "11-20",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "0-1",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "0-1",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Doctor",
+          "0-1",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Doctor",
+          "0-1",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "0-1",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "0-1",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "0-1",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "0-1",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "0-1",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "0-1",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Doctor",
+          "0-1",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Doctor",
+          "0-1",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Doctor",
+          "0-1",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Doctor",
+          "0-1",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "0-1",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "0-1",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "0-1",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "0-1",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Doctor",
+          "0-1",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Doctor",
+          "0-1",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "0-1",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "0-1",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "0-1",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "0-1",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "0-1",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "0-1",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Doctor",
+          "0-1",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Doctor",
+          "0-1",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Doctor",
+          "0-1",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Doctor",
+          "0-1",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "1-5",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "1-5",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Doctor",
+          "1-5",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Doctor",
+          "1-5",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "1-5",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "1-5",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "1-5",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "1-5",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "1-5",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "1-5",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Doctor",
+          "1-5",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Doctor",
+          "1-5",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Doctor",
+          "1-5",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Doctor",
+          "1-5",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "1-5",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "1-5",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "1-5",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "1-5",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Doctor",
+          "1-5",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Doctor",
+          "1-5",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "1-5",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "1-5",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "1-5",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "1-5",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "1-5",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "1-5",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Doctor",
+          "1-5",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Doctor",
+          "1-5",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Doctor",
+          "1-5",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Doctor",
+          "1-5",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "6-10",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "6-10",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Doctor",
+          "6-10",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Doctor",
+          "6-10",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "6-10",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "6-10",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "6-10",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "6-10",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "6-10",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "6-10",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Doctor",
+          "6-10",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Doctor",
+          "6-10",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Doctor",
+          "6-10",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Doctor",
+          "6-10",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "6-10",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "6-10",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "6-10",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "6-10",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Doctor",
+          "6-10",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Doctor",
+          "6-10",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "6-10",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "6-10",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "6-10",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "6-10",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "6-10",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "6-10",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Doctor",
+          "6-10",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Doctor",
+          "6-10",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Doctor",
+          "6-10",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Doctor",
+          "6-10",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "11-20",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "11-20",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Doctor",
+          "11-20",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Doctor",
+          "11-20",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "11-20",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "11-20",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "11-20",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "11-20",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "11-20",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "11-20",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Doctor",
+          "11-20",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Doctor",
+          "11-20",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Doctor",
+          "11-20",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Doctor",
+          "11-20",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "11-20",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "11-20",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Doctor",
+          "11-20",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Doctor",
+          "11-20",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Doctor",
+          "11-20",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Doctor",
+          "11-20",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "11-20",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "11-20",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Doctor",
+          "11-20",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Doctor",
+          "11-20",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Doctor",
+          "11-20",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Doctor",
+          "11-20",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Doctor",
+          "11-20",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Doctor",
+          "11-20",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Doctor",
+          "11-20",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Doctor",
+          "11-20",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "0-1",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "0-1",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "0-1",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "0-1",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "0-1",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "0-1",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "0-1",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "0-1",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "0-1",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "0-1",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "0-1",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "0-1",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "0-1",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "0-1",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "0-1",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "0-1",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "0-1",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "0-1",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Project Manager",
+          "0-1",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Project Manager",
+          "0-1",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "0-1",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "0-1",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "0-1",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "0-1",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "0-1",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "0-1",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Project Manager",
+          "0-1",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Project Manager",
+          "0-1",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Project Manager",
+          "0-1",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Project Manager",
+          "0-1",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "1-5",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "1-5",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "1-5",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "1-5",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "1-5",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "1-5",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "1-5",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "1-5",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "1-5",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "1-5",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "1-5",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "1-5",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "1-5",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "1-5",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "1-5",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "1-5",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "1-5",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "1-5",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Project Manager",
+          "1-5",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Project Manager",
+          "1-5",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "1-5",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "1-5",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "1-5",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "1-5",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "1-5",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "1-5",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Project Manager",
+          "1-5",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Project Manager",
+          "1-5",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Project Manager",
+          "1-5",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Project Manager",
+          "1-5",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "6-10",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "6-10",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "6-10",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "6-10",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "6-10",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "6-10",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "6-10",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "6-10",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "6-10",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "6-10",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "6-10",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "6-10",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "6-10",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "6-10",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "6-10",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "6-10",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "6-10",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "6-10",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Project Manager",
+          "6-10",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Project Manager",
+          "6-10",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "6-10",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "6-10",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "6-10",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "6-10",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "6-10",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "6-10",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Project Manager",
+          "6-10",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Project Manager",
+          "6-10",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Project Manager",
+          "6-10",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Project Manager",
+          "6-10",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "11-20",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "11-20",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "11-20",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "11-20",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "11-20",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "11-20",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "11-20",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "11-20",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "11-20",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "11-20",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "11-20",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "11-20",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Project Manager",
+          "11-20",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Project Manager",
+          "11-20",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "11-20",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "11-20",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Project Manager",
+          "11-20",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Project Manager",
+          "11-20",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Project Manager",
+          "11-20",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Project Manager",
+          "11-20",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "11-20",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "11-20",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Project Manager",
+          "11-20",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Project Manager",
+          "11-20",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Project Manager",
+          "11-20",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Project Manager",
+          "11-20",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Project Manager",
+          "11-20",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Project Manager",
+          "11-20",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Project Manager",
+          "11-20",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Project Manager",
+          "11-20",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Software Engineer",
+          "0-1",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Software Engineer",
+          "0-1",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Software Engineer",
+          "1-5",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Software Engineer",
+          "1-5",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Software Engineer",
+          "6-10",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Software Engineer",
+          "6-10",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "No",
+          140
+        ],
+        [
+          "Male",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "No",
+          200
+        ],
+        [
+          "Male",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "No",
+          210
+        ],
+        [
+          "Male",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "No",
+          580
+        ],
+        [
+          "Not specified",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "No",
+          240
+        ],
+        [
+          "Female",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "No",
+          205
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "No",
+          215
+        ],
+        [
+          "Male",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "No",
+          275
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "No",
+          550
+        ],
+        [
+          "Not specified",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "No",
+          505
+        ],
+        [
+          "Female",
+          "Mixed",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "No",
+          245
+        ],
+        [
+          "Female",
+          "Mixed",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "No",
+          250
+        ],
+        [
+          "Female",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "No",
+          250
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "No",
+          415
+        ],
+        [
+          "Not specified",
+          "Asian or Asian British",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "No",
+          600
+        ],
+        [
+          "Male",
+          "White",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "No",
+          180
+        ],
+        [
+          "Male",
+          "White",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "No",
+          180
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "No",
+          345
+        ],
+        [
+          "Not specified",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "No",
+          400
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "No",
+          305
+        ],
+        [
+          "Male",
+          "Other Ethnic Groups",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "No",
+          200
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "No",
+          220
+        ],
+        [
+          "Female",
+          "Black or Black British",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "No",
+          105
+        ],
+        [
+          "Not specified",
+          "White",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "No",
+          350
+        ],
+        [
+          "Not specified",
+          "White",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "No",
+          400
+        ],
+        [
+          "Female",
+          "White",
+          "June",
+          "Software Engineer",
+          "11-20",
+          "No",
+          210
+        ],
+        [
+          "Female",
+          "White",
+          "July",
+          "Software Engineer",
+          "11-20",
+          "No",
+          140
+        ]
+      ]
+    }
+  }

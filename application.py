@@ -36,7 +36,8 @@ def get_faq():
 @app.route('/random_question', methods=['GET', 'POST'])
 def random_question():
     data_path = ""
-    file_index = random.randint(0, 5)
+    # file_index = random.randint(0, 5)
+    file_index = 6
     folder = os.path.dirname(os.path.abspath(__file__))
     if file_index == 0:
         data_path = os.path.join(folder, 'mock_response.json')
@@ -50,6 +51,8 @@ def random_question():
         data_path = os.path.join(folder, 'mutiplelinechart.json')
     elif file_index == 5:
         data_path = os.path.join(folder, 'scatterchart.json')
+    elif file_index == 6:
+        data_path = os.path.join(folder, '60KBtest.json')
 
     with open(data_path) as file:
         suggested_charts = json.loads(file.read())
