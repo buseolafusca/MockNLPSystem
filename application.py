@@ -56,7 +56,7 @@ def random_question():
     elif file_index == 5:
         data_path = os.path.join(folder, 'scatterchart.json')
     elif file_index == 6:
-        data_path = os.path.join(folder, '60KBtest.json')
+        data_path = os.path.join(folder, '2MBtest.json')
 
     with open(data_path) as file:
         suggested_charts = json.loads(file.read())
