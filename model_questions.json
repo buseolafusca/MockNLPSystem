@@ -5,7 +5,7 @@
     "responseData": {
       "summary": {
         "question": "How many jewish women visited A&E?",
-        "interpretation": "",
+        "interpretation": "How many jewish women visited A&E?",
         "row_count": 1,
         "col_count": 1
       },
@@ -30,7 +30,7 @@
     "responseData": {
       "summary": {
         "question": "How many people visited A&E by gender?",
-        "interpretation": "",
+        "interpretation": "How many people visited A&E by gender?",
         "row_count": 1,
         "col_count": 1
       },
@@ -70,7 +70,7 @@
     "responseData": {
       "summary": {
         "question": "How many people are on long term sick by ethnicity and gender?",
-        "interpretation": "",
+        "interpretation": "How many people are on long term sick by ethnicity and gender?",
         "row_count": 15,
         "col_count": 3
       },
@@ -179,7 +179,7 @@
     "responseData": {
       "summary": {
         "question": "How many people visited A&E by ethnicity and gender?",
-        "interpretation": "",
+        "interpretation": "How many people visited A&E by ethnicity and gender?",
         "row_count": 15,
         "col_count": 3
       },
@@ -288,7 +288,7 @@
     "responseData": {
       "summary": {
         "question": "How many people visited A&E by ethnicity and sexual orientation?",
-        "interpretation": "",
+        "interpretation": "How many people visited A&E by ethnicity and sexual orientation?",
         "row_count": 30,
         "col_count": 3
       },
@@ -472,7 +472,7 @@
     "responseData": {
       "summary": {
         "question": "How many people used mental health services by gender?",
-        "interpretation": "",
+        "interpretation": "How many people used mental health services by gender?",
         "row_count": 1,
         "col_count": 1
       },
@@ -508,7 +508,7 @@
     "responseData": {
       "summary": {
         "question": "How many men are on long term sick by sexual orientation and race?",
-        "interpretation": "",
+        "interpretation": "How many men are on long term sick by sexual orientation and race?",
         "row_count": 29,
         "col_count": 3
       },
@@ -687,7 +687,7 @@
     "responseData": {
       "summary": {
         "question": "How many people visited A&E by gender and religion?",
-        "interpretation": "",
+        "interpretation": "How many people visited A&E by gender and religion?",
         "row_count": 38,
         "col_count": 3
       },
@@ -911,7 +911,7 @@
     "responseData": {
       "summary": {
         "question": "How many people visited A&E in June and July by gender and race?",
-        "interpretation": "",
+        "interpretation": "How many people visited A&E in June and July by gender and race?",
         "row_count": 30,
         "col_count": 4
       },
@@ -1131,7 +1131,7 @@
     "responseData": {
       "summary": {
         "question": "How many women used mental health services by sexual orientation and ethnicity?",
-        "interpretation": "",
+        "interpretation": "How many women used mental health services by sexual orientation and ethnicity?",
         "row_count": 30,
         "col_count": 3
       },
@@ -1315,7 +1315,7 @@
     "responseData": {
       "summary": {
         "question": "How many people visited A&E and how many were acute or overuse injuries by ethnicity and sexual orientation?",
-        "interpretation": "",
+        "interpretation": "How many people visited A&E and how many were acute or overuse injuries by ethnicity and sexual orientation?",
         "row_count": 30,
         "col_count": 4
       },
@@ -1571,7 +1571,7 @@
     "responseData": {
       "summary": {
         "question": "How many men visited A&E by ethnicity and sexual orientation?",
-        "interpretation": "",
+        "interpretation": "How many men visited A&E by ethnicity and sexual orientation?",
         "row_count": 30,
         "col_count": 4
       },
@@ -1791,7 +1791,7 @@
     "responseData": {
       "summary": {
         "question": "How many men visited A&E and how many of them had serious injury by ethnicity?",
-        "interpretation": "",
+        "interpretation": "How many men visited A&E and how many of them had serious injury by ethnicity?",
         "row_count": 5,
         "col_count": 4
       },

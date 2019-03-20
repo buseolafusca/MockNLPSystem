@@ -5,7 +5,7 @@
     "responseData": {
       "summary": {
         "question": "60KB data",
-        "interpretation": "",
+        "interpretation": "60KB test data",
         "row_count": 960,
         "col_count": 7
       },
